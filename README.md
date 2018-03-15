@@ -21,6 +21,7 @@ See [Rotating Bunny](https://codesandbox.io/s/q7oj1p0jo6) demo.
 
 ```jsx harmony
 import { render } from "react-dom";
+import * as PIXI from "pixi.js";
 import { Sprite, Stage } from "react-pixi-fiber";
 import bunny from "./bunny.png";
 
